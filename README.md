@@ -1,4 +1,4 @@
-<h5 align="left">Hi I am Jixu(A Full Stack Python Developer)<br>🔭 I’m currently working on Pandas library<br>🌱 I’m currently learning Python<br>••••Technical Skills••••<br><br>•Programming Languages:<br>Python, Java, JavaScript, TypeScript<br><br>•Tools & Technologies:<br>GitHub, Linux,VS Code<br><br>•Other Skills:<br>Data Structures & Algorithms, Object-Oriented Programming, System Design</h5>
+<h5 align="left">Hi I am Jixu(A Full Stack Python Developer)<br>🌱 I’m currently learning Python<br>🔭 I’m currently working on Pandas library<br>••••Technical Skills••••<br><br>•Programming Languages:<br>Python, Java, JavaScript, TypeScript<br><br>•Tools & Technologies:<br>GitHub, Linux,VS Code<br><br>•Other Skills:<br>Data Structures & Algorithms, Object-Oriented Programming, System Design</h5>
 
 ###
 
