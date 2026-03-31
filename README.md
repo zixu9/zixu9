@@ -44,3 +44,24 @@
 </div>
 
 ###
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+            <br>Typescript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <br>Java
+              </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+            <br>Javascript
+        </td>
+    </tr>
+</table>
+<br />
