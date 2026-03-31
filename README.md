@@ -54,8 +54,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=devxjixu&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+<div align="left">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devxjixu&theme=blue-green&card_width=200&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
