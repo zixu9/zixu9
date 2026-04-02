@@ -49,16 +49,6 @@
 </table>
 
 ###
-
-<h5 align="left">Github Stats 📊:</h5>
-
-###
-
-<div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devxjixu&theme=blue-green&card_width=200&card_height=200&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devxjixu/devxjixu/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devxjixu/devxjixu/output/pacman-contribution-graph.svg">
