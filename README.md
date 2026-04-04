@@ -58,4 +58,3 @@
 </picture>
 
 ###
-![Header](./)
