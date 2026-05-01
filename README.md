@@ -1,13 +1,6 @@
 ![Header](./github-header-banner.png)
 
-<h5 align="left">🌱 I’m currently learning Python<br>🔭 I’m currently working on Pandas library<br><br>••••Technical Skills••••<br><br>•Programming Languages:<br>Python, Java, JavaScript, TypeScript<br><br>•Tools & Technologies:<br>GitHub, Linux,VS Code<br><br>•Other Skills:<br>Data Structures & Algorithms, Object-Oriented Programming, System Design</h5>
-
-###
-
-<h5 align="left">Tech Stack👨‍💻:</h5>
-
-###
-
+<h5 align="left">🌱 I’m currently learning Python<br>🔭 I’m currently working on Pandas library<br>
 <table align="center">
     <tr>
         <td align="center" width="90">
