@@ -1,7 +1,10 @@
 ![Header](./github-header-banner.png)
 
-<h5 align="left">🌱 I’m currently learning Python<br>🔭 I’m currently working on Pandas library<br>
-<table align="center">
+<h5 align="left">🌱 I’m currently learning Python , Html , & Css<br>🔭 I’m currently working on Management Systems<br>
+
+###
+<h5>👨‍💻📚Tech Stack:</h5>
+<table align="left">
     <tr>
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
