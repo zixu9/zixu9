@@ -10,34 +10,34 @@
             <img src="python.svg" width="45" height="45" alt="Java" />
             <br>Python
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <img src="Java.svg" width="45" height="45" alt="Java" />
             <br>Java
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <img src="JavaScript.svg" width="45" height="45" alt="Java" />
             <br>JavaScript
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <img src="TypeScript.svg" width="45" height="45" alt="Java" />
             <br>TypeScript
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <img src="GitHub.svg" width="45" height="45" alt="Java" />
             <br>Github
     </tr>
     <tr>
             </td>
         <td align="center" widtth="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /><br>Html5
+            <img src="HTML5.svg" width="45" height="45" /><br>Html5
         </td>
         <td align="center" widtth="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" /><br>Css3
+            <img src="CSS3.svg" width="45" height="45" /><br>Css3
         </td>
         <td align="center" widtth="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" /><br>Pandas
+            <img src="Pandas.svg" width="45" height="45" /><br>Pandas
         </td>
         <td align="center" widtth="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" /><br>Numpy
+            <img src="NumPy.svg" width="45" height="45" /><br>Numpy
         </td>
         <td align="center" widtth="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" /><br>VsCode
+            <img src="Visual Studio Code (VS Code).svg" width="45" height="45" /><br>VsCode
         </td>
     </tr>
 </table>
