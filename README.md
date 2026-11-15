@@ -7,6 +7,9 @@
 <table align="left">
     <tr>
         <td align="center" width="90">
+            <img src="python.svg" width="45" height="45" alt="Java" />
+            <br>Python
+        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
             <br>Java
             </td>
