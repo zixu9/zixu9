@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-<h5 align="left">🌱 I’m currently learning Python , Html , & Css<br>🔭 I’m currently working on Management Systems<br>
+<h5 align="left">🌱 I’m currently learning Python , HTML5 , CSS3 , & MySQL <br>🔭 I’m currently working on learning<br>
 
 ###
 <h5>👨‍💻📚Tech Stack:</h5>
