@@ -12,6 +12,17 @@
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
             <br>Java
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <br>JavaScript
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <br>TypeScript
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <br>Github
+    </tr>
+    <tr>
             </td>
         <td align="center" widtth="90">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" /><br>Html5
